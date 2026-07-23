@@ -77,8 +77,8 @@ app/
 │   └── report_generator.py        # ReportGenerator
 │
 ├── prompts/
-│   ├── prompt_planner.py
-│   ├── prompt_interviewer.py
+│   ├── planner_prompt.py
+│   ├── interviewer_prompt.py
 │   └── evaluator_prompt.py / report_prompt.py
 │
 ├── schemas/
