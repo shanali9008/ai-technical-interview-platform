@@ -2,7 +2,7 @@
 
 An AI-powered technical interview system that plans an interview around a candidate's resume and a job description, conducts it turn by turn, evaluates each answer in real time, and produces a structured hiring report at the end.
 
-> **Status: Work in progress.** This is an active learning/portfolio project, not a finished product currently improving.
+> **Status: Version 1.0 (MVP)** This project is actively being improved with planned features including voice interviews, persistent storage, Docker support, and cloud deployment.
 
 ---
 
@@ -109,7 +109,7 @@ requirements.txt
 
 ```bash
 git clone <your-repo-url>
-cd AI_Recruiter
+cd ai-technical-interview-platform
 pip install -r requirements.txt
 ```
 
